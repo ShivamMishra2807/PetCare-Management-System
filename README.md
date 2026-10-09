@@ -14,7 +14,7 @@
 
 <br/>
 
-**[🌐 Live Demo (GitHub Pages)](https://shivamishra2807.github.io/PetCare-Management-System/)** • **[📑 Postman Collection](postman_collection.json)** • **[📖 Viva & Exam Guide](VIVA_GUIDE.md)** • **[🐛 Report Bug](https://github.com/ShivamMishra2807/PetCare-Management-System/issues)**
+**[🌐 Live Demo (GitHub Pages)](https://shivamishra2807.github.io/PetCare-Management-System/)** • **[📑 Postman Collection](postman_collection.json)** • **[🐛 Report Bug](https://github.com/ShivamMishra2807/PetCare-Management-System/issues)**
 
 </div>
 
@@ -32,7 +32,6 @@
 - [Environment Variables](#-environment-variables)
 - [REST API Endpoints](#-rest-api-endpoints)
 - [Deployment Guide](#-deployment-guide)
-- [Practical Experiments & Reports](#-practical-experiments--reports)
 - [License](#-license)
 
 ---
@@ -137,10 +136,8 @@ PetCare-Management-System/
 │   └── workflows/
 │       └── deploy-pages.yml       # Automated GitHub Pages CI/CD deployment
 │
-├── WT_Practical_Reports/          # Web Technology experiment reports & lab manuals
 ├── postman_collection.json        # Pre-configured Postman API collection
 ├── start_all.bat                  # One-click Windows starter script
-├── VIVA_GUIDE.md                  # Comprehensive viva & project defense preparation guide
 └── README.md
 ```
 
@@ -246,19 +243,10 @@ VITE_API_URL=http://localhost:5000/api
 
 ---
 
-## 📄 Practical Experiments & Lab Reports
-
-The repository includes complete Web Technology practical manuals located in [`WT_Practical_Reports/`](WT_Practical_Reports/):
-- **Experiment 1–4**: HTML5 semantic markup, CSS3 styling, responsive layouts, client validation.
-- **Experiment 5–8**: JavaScript DOM manipulation, Node.js server architecture, Express routing.
-- **Experiment 9–12**: MongoDB integration, RESTful CRUD APIs, React SPA component state, and JWT security.
-
----
-
 ## 📜 License
 
 This project is licensed under the **MIT License**.
 
 <div align="center">
-  <sub>Developed with 🐾 for pet healthcare management and academic excellence.</sub>
+  <sub>Developed with 🐾 for pet healthcare management.</sub>
 </div>
