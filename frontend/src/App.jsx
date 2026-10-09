@@ -30,7 +30,7 @@ import Users from './pages/Users';
 function App() {
   return (
     <AuthProvider>
-      <Router>
+      <Router basename={import.meta.env.BASE_URL}>
         <div className="d-flex flex-column min-vh-100">
           <Navbar />
 
